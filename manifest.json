@@ -1,11 +1,11 @@
 {
-    "name": "hatch_billing",
-    "short_name": "hatch_billing",
-    "start_url": ".",
+    "name": "Hatch Plumbing Invoice Generator",
+    "short_name": "Hatch Invoice",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Invoice Generator for Hatch PLumbing.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
